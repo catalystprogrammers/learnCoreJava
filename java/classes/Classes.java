@@ -1,4 +1,3 @@
-
 public class Classes {
 
     public static void main(String[] args) {
@@ -47,12 +46,12 @@ class Person {
     int maxAge;
     String color;
 
-    Person(int NOH, String color) {
+     Person(int NOH, String color) {
         this.numberOfHands = NOH;
         this.color = color;
     }
 
-    void walk() {
+     void walk() {
         System.out.println("Person is walking");
     }
 
