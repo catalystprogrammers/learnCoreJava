@@ -1,6 +1,6 @@
 public class Abstraction {
     public static void main(String[] args) {
-        Car cr = new Car();
+        Vehicle cr = new Car();
 
         cr.start();
 
