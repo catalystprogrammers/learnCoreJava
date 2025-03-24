@@ -4,7 +4,7 @@ public class Abstraction {
 
         cr.start();
 
-        cr.color = "white";
+        // cr.color = "white";
         System.out.println("This is my name");
     }
 }
